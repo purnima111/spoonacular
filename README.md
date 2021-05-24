@@ -12,7 +12,7 @@ Recipe names will be mentioned in Green color, and if there are any ingredients 
 * **Get API Key** Before using this application, you must retrieve an API key from Spoonacular. You can create a free account and get an API key by visiting [https://spoonacular.com/food-api](https://spoonacular.com/food-api)
 * **Set API Key In Environment** For security purpose, application accesses api key from environment variable with variable name **SPOON_API_KEY**. Open terminal and run below command with your API Key before running python script
 ```bash
-export SPOON_API_KEY: <KEY>
+export SPOON_API_KEY=<KEY>
 ```
 
 * **Import python library 'requests'** Application uses request library to make HTTP calls. Use below command to import the library
