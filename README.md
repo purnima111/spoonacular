@@ -31,14 +31,14 @@ Use below steps to run the application
 * Open terminal and goto poroject directory.
 * If you didnt set SPOON_API_KEY in bash profile and closed previous terminal session, then you should set API key again before running application
 * Run below command to run the application and follow the command prompt
-```bash
-python run.py
+```
+python3 run.py
 ```
 
 ## Test
 To unit test application, please follow below steps 
 * Open terminal and goto poroject directory
 * Run below command to unit test the application
-```bash
-python test.py
+```
+python3 test.py
 ```
